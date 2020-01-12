@@ -1,0 +1,4 @@
+server:
+  port: 8090
+application:
+  varsion: 1.0
